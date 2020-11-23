@@ -5,7 +5,7 @@ Quick Start
 
 ### Clone this repository
 
-    git clone https://github.com/naufalpry/APITest.git
+    git clone https://github.com/naufalpry/apitestrobotframework.git
 
 ### Pull the image.
 
@@ -15,11 +15,11 @@ Quick Start
 
 ##### Method 1: use docker-compose
 
-    cd APITest && docker-compose up
+    cd apitestrobotframework  && docker-compose up
     
 ##### Method 2: use bash
 
-    cd APITest && ./run_tests.sh
+    cd apitestrobotframework  && ./run_tests.sh
     
 
 NOTE
@@ -102,4 +102,5 @@ More details here http://navinet.github.io/robotframework-excellibrary/ExcelLibr
 
 
 *For any requests or changes please open issues or create pull requests :)*
+
 
